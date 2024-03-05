@@ -1,51 +1,25 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#  Era da Inteligência Artificial: Transformações e Desafios para o Futuro da Sociedade
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Elaboracão de um eboo-k explorando os desafios e transformções que a inteligência artificial pode trazer para a sociedade, como por exemplo os desafios éticos e a substituição de mão-de-obra levando a desemprego.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Google Gemini
+- Adobe Firefly
+- Overleaf (LaTeX)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O criação do conteúdo textual ficou ao encargo da IA google Gemini enquanto que a arte da capa foi gerada pelo Adobe Firefly. A formatação em LaTeX foi feita usando a ferramenta online Overleaf. O google Gemini foi capaz de gerar um template latex básico sobre o qual fiz algumas alterações.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- O resultado pode ser visto no arquivo Ebook_IA.pdf
+- A arte da capa em capa.jpg
+- Arquivo latex main.tex
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+
+Essa atividade mostrou como acelerar um processo de criação utilizando ferramentas de IA, a possibilidade de organizar os tópicos do livro, expandir e detalhar mais capítulos e sugestões de idéias podem ser utilizadas para potencializar a produção.
+A geração da arte da capa foi um processo simples de text-to-image.
+Esse livro foi inteiramente gerado pela IA. Porém, em uma obra autoral, a IA pode ser uma boa aliada para enriquecer o projeto.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
